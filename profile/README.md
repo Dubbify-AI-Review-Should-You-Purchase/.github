@@ -139,7 +139,6 @@ Ready to dive in? Here’s how to kick things off:
 3. **Test a Dub**: Translate a short video into a new language and see the magic happen.
 4. **Scale Up**: Invest in OTOs like Unlimited or Agency if you’re ready to go big.
 
-```html
 <div class="cta-button" style="text-align: center; padding: 20px; background-color: #f9f9f9; border-radius: 10px;">
   <a href="https://dubbifyaiapp.com" target="_blank" style="padding: 15px 30px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Get Dubbify AI </a>
 
@@ -150,10 +149,3 @@ Dubbify AI is more than just a dubbing tool—it’s a **global expansion machin
 Is it perfect? Not quite—minor voice quirks and the OTO upsell structure might irk some users. But for the price and potential, it’s hard to beat. Whether you’re a solo creator or a budding agency, Dubbify AI could be the key to unlocking your next big breakthrough.
 
 Ready to take your content global? Click below to get started:
-
-```html
-<div class="final-cta" style="text-align: center; padding: 30px; background-color: #e9ecef; border-radius: 15px; margin-top: 20px;">
-  <h3 style="color: #333;">Break Language Barriers Today!</h3>
-  <a href="https://dubbifyaiapp.com" target="_blank" style="padding: 15px 40px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 18px;">Grab Dubbify AI for $16.95</a>
-  <p style="color: #666; font-size: 14px; margin-top: 10px;">Use code "DUBBIFYADMIN" for 30% off!</p>
-</div>
