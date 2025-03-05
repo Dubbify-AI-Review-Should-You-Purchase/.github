@@ -89,6 +89,7 @@ These optional upgrades unlock more power and profitability. Here’s a detailed
 **Pro Tip**: Use the coupon code **“DUBBIFYADMIN”** to save 30% on the entire funnel!
 
 > **Expert Opinion**: The front-end price is a steal for what you get, but if you’re serious about scaling, the **Unlimited ($67)** and **Agency ($167)** upgrades offer the best value. They remove restrictions and open up serious earning potential.
+
 > [Get Dubbify AI Now](https://rb.gy/gp88ff)
 ---
 
